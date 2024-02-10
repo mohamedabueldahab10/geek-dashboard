@@ -1,0 +1,89 @@
+.tabsContainer {
+  width: 98%;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #181818;
+  margin-bottom: 20px;
+}
+.tab{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding:0px 30px;
+  color: #4848484D;
+  border-right: 2px solid #B9B9B9;
+  font-size: 48px;
+  font-weight: 700;
+}
+.lastTab{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-inline: 30px;
+  color: #4848484D;
+  font-size: 48px;
+  font-weight: 700;
+}
+.comingSoon{
+  font-size: 15px;
+  font-weight: 400;
+  color: #9089DC;
+  background-color: #554DB7;
+  border-radius: 12px;
+  padding: 0px 5px;
+}
+.active{
+  color: #fff !important;
+}
+@media screen and (max-width: 425px) {
+  .tabsContainer {
+    height: 50px;
+  }
+  .tab {
+    font-size: 10px;
+    padding:0px 10px;
+    
+  }
+  .lastTab{
+    font-size: 10px;  
+  }
+  .comingSoon{
+    font-size: 6px;
+  }
+  }
+@media (min-width: 426px) and (max-width: 770px) {
+  .tabsContainer {
+    height: 80px;
+  }
+  .tab {
+    font-size: 12px;
+    padding:0px 10px;
+    
+  }
+  .lastTab{
+    font-size: 12px;  
+  }
+  .comingSoon{
+    font-size: 7px;
+  }
+  }
+@media (min-width: 771px) and (max-width: 1440px) {
+  .tabsContainer {
+    height: 80px;
+  }
+  .tab {
+    font-size: 18px;
+    padding:0px 10px;
+    
+  }
+  .lastTab{
+    font-size: 18px;  
+  }
+  .comingSoon{
+    font-size: 10px;
+  }
+  }
