@@ -129,37 +129,36 @@ const Body = () => {
         </div>
         <div className={styles.tabsContainer}>
                 <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
+                X company released a short report on $XYZ, High IV option sales opps                </p>
+        </div>
+        <div className={styles.tabsContainer}>
+                <p className={styles.desc}>
+                    $XYZ just announced an acquisition of $ABC at $X. This is an arbitrage opportunity, with the max gain being %X if the deal closes, but the possible risk is %Y  if the deal fails..
                 </p>
         </div>
         <div className={styles.tabsContainer}>
                 <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
+                    $XYZ just announced an acquisition of $ABC at $X. This is an arbitrage opportunity, with the max gain being %X if the deal closes, but the possible risk is %Y  if the deal fails..
                 </p>
         </div>
         <div className={styles.tabsContainer}>
                 <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
+                    $XYZ just announced an acquisition of $ABC at $X. This is an arbitrage opportunity, with the max gain being %X if the deal closes, but the possible risk is %Y  if the deal fails..
                 </p>
         </div>
         <div className={styles.tabsContainer}>
                 <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
+                    $XYZ just announced an acquisition of $ABC at $X. This is an arbitrage opportunity, with the max gain being %X if the deal closes, but the possible risk is %Y  if the deal fails..
                 </p>
         </div>
         <div className={styles.tabsContainer}>
                 <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
+                    $XYZ just announced an acquisition of $ABC at $X. This is an arbitrage opportunity, with the max gain being %X if the deal closes, but the possible risk is %Y  if the deal fails..
                 </p>
         </div>
         <div className={styles.tabsContainer}>
                 <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
-                </p>
-        </div>
-        <div className={styles.tabsContainer}>
-                <p className={styles.desc}>
-                    Someone Just bought xxxx contracts of $XYZ, this is notable because the relative volume on this options trade is X.X%.
+                    $XYZ just announced an acquisition of $ABC at $X. This is an arbitrage opportunity, with the max gain being %X if the deal closes, but the possible risk is %Y  if the deal fails..
                 </p>
         </div>
         </div>

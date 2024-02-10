@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz@6..12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz@6..12&family=Poppins&display=swap');
 .bodyContainer{
   display: flex;
   justify-content: space-between;
   align-items: start;
+font-family: 'Nunito Sans', sans-serif;
 }
 .filterContainer{
   width: 20%;
@@ -10,6 +13,8 @@
   background-color: #212121;
   border-radius: 15px;
   padding: 5px 15px;
+  font-family: 'Poppins', sans-serif;
+
 }
 .selectContainer{
   display: flex;
@@ -114,12 +119,13 @@
 }
 .desc{
   font-size: 21px;
-  line-height: 30px;
+  line-height: 32px;
+  width: 100%;
   text-align: start;
   background-color: #000;
   border: 0.6px solid #D5D5D5;
   border-radius: 15px;
-  padding: 0px 15px;
+  padding: 5px 15px;
 }
 @media screen and (max-width: 630px) {
   .bodyContainer{

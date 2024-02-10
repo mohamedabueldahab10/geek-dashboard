@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz@6..12&display=swap');
 .tabsContainer {
   width: 98%;
   height: 100px;
@@ -7,6 +8,7 @@
   border-radius: 10px;
   background-color: #181818;
   margin-bottom: 20px;
+  font-family: 'Nunito Sans', sans-serif;
 }
 .tab{
   display: flex;
